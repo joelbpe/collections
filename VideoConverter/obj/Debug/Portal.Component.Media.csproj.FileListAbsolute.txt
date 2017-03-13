@@ -1,0 +1,5 @@
+E:\Solutions\Media\bin\Debug\Portal.Component.Media.dll
+E:\Solutions\Media\bin\Debug\Portal.Component.Media.pdb
+E:\Solutions\Media\obj\Debug\Portal.Component.Media.dll
+E:\Solutions\Media\obj\Debug\Portal.Component.Media.pdb
+E:\Solutions\Media\obj\Debug\Portal.Component.Media.csprojResolveAssemblyReference.cache

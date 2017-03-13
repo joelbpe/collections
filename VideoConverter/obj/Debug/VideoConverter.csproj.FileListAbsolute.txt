@@ -1,0 +1,5 @@
+E:\Solutions\Media\bin\Debug\VideoConverter.dll
+E:\Solutions\Media\bin\Debug\VideoConverter.pdb
+E:\Solutions\Media\obj\Debug\VideoConverter.csprojResolveAssemblyReference.cache
+E:\Solutions\Media\obj\Debug\VideoConverter.dll
+E:\Solutions\Media\obj\Debug\VideoConverter.pdb
