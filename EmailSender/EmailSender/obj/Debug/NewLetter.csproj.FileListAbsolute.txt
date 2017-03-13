@@ -1,0 +1,6 @@
+C:\Users\jpe\Documents\Oasis\News Letter\NewLetter\NewLetter\bin\Debug\NewLetter.exe.config
+C:\Users\jpe\Documents\Oasis\News Letter\NewLetter\NewLetter\bin\Debug\NewLetter.exe
+C:\Users\jpe\Documents\Oasis\News Letter\NewLetter\NewLetter\bin\Debug\NewLetter.pdb
+C:\Users\jpe\Documents\Oasis\News Letter\NewLetter\NewLetter\obj\Debug\NewLetter.csprojResolveAssemblyReference.cache
+C:\Users\jpe\Documents\Oasis\News Letter\NewLetter\NewLetter\obj\Debug\NewLetter.exe
+C:\Users\jpe\Documents\Oasis\News Letter\NewLetter\NewLetter\obj\Debug\NewLetter.pdb

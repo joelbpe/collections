@@ -1,0 +1,10 @@
+E:\snippets\CampaignLetter\NewLetter\bin\Debug\NewsLetter.exe.config
+E:\snippets\CampaignLetter\NewLetter\bin\Debug\NewsLetter.exe
+E:\snippets\CampaignLetter\NewLetter\bin\Debug\NewsLetter.pdb
+E:\snippets\CampaignLetter\NewLetter\obj\Debug\NewsLetter.exe
+E:\snippets\CampaignLetter\NewLetter\obj\Debug\NewsLetter.pdb
+E:\snippets\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+E:\snippets\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+E:\snippets\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+E:\snippets\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+E:\snippets\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
