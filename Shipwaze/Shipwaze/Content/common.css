@@ -1,0 +1,169 @@
+﻿.form-control-delete {
+    vertical-align: middle;
+    color: #777;
+}
+
+.form-control-delete:hover {
+    color: #A94442 !important;
+}
+
+
+.text-small {
+    font-size: small;
+}
+
+.text-medium {
+    font-size: medium;
+}
+
+.text-large {
+    font-size: large;
+}
+
+
+.btn-primary {
+    color: #FFF;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.dropzone-dragover {
+     background-color: #FFF2CC;
+     min-height: 100px;
+     min-width: 100%;
+}
+
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+/**
+    Carousel
+*/
+.carousel-fade .carousel-inner .item {
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
+}
+
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
+
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+
+/** 
+    Tag cloud
+*/
+.tag {
+    background-color: #3A87AD;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #FFF;
+    display: inline-block;
+    font-size: 9pt;
+    line-height: 20px;
+    margin: 2px 2px 2px 2px;
+    padding: 1px 4px 2px;
+    vertical-align: baseline;
+}
+
+.tag > span > a {
+    color: #FFF;
+}
+
+.tag-cloud > span > a:hover {
+    color: #C8C8C8;
+}
+
+.tag-control:hover {
+    color: #F0AD4E;
+    cursor: pointer;
+    padding: 0;
+}
+
+/** 
+ Social Login
+ */
+.social-login {
+    display: inline-block;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    width: 25px;
+    margin: 0;
+    border-radius: 50%;
+}
+
+.facebook {
+    background: #305891;
+    color: #FFF;
+}
+
+.win {
+    background: #0078D7;
+}
+
+.linkedIn {
+    background: #006699;
+}
+
+.tw {
+    background: #2ca8d2;
+}
+
+/**
+    Round
+*/
+.round {   
+    border-radius: 50%;
+    max-width: 30px;
+    border: 2px solid  #FFF ;
+    position: relative;
+    top: -2px;
+}
+/**
+    Widget Panel Controls
+*/
+.panel .panel-controls a {
+    padding: 2px;
+    font-size: 1em;
+    color: #808080;
+}
+
+.panel .panel-controls a:hover{    
+    color: #333;
+}
+
+.fullscreen {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  z-index: 9999;
+  overflow-y: auto;
+}

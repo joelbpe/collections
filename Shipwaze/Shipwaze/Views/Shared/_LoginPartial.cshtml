@@ -1,0 +1,24 @@
+﻿@if (Request.IsAuthenticated) {
+    <a href="#" data-toggle="dropdown" class="dropdown-toggle" aria-expanded="false">
+        <span>@User.Identity.Name</span>
+        <div class="pull-right">
+            <img class="round img-profile" src="~/Content/images/jpe.jpg" alt="Profile Picture">
+        </div>        
+    </a>    
+    <ul class="dropdown-menu">
+        <li><a href="/account/manage"><i class="fa fa-user"></i>&nbsp;Profile</a></li>
+        <li><a href="#"><i class="fa fa-cog"></i>&nbsp;Settings</a></li>
+        <li class="divider" role="separator"></li>
+        <li><a href="#"><i class="fa fa-question-circle"></i>&nbsp;Help</a></li>
+        <li class="divider" role="separator"></li>
+        <li>
+            @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" })) {
+                @Html.AntiForgeryToken()
+                <a href="javascript:document.getElementById('logoutForm').submit()"><i class="fa fa-power-off"></i>&nbsp;Log off</a>
+            }
+        </li>        
+    </ul>
+}
+else {
+    <a href="/account/login"><i class="fa fa-sign-out"></i>&nbsp;Demo</a>
+}

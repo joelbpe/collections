@@ -1,0 +1,247 @@
+﻿@{
+    ViewBag.Title = "";
+}
+
+<section class="box">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="headline">
+                <h2><i class="fa fa-map-marker text-success" aria-hidden="true"></i>&nbsp;Origin</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="form">
+                        <div class="form-group">
+                            <label class="text-header">City or Zip</label>
+                            <input class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label class="text-header">Location Type</label>
+                            <select class="form-control">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="form">
+                        <div class="form-group">
+                            <label class="text-header">Services</label>
+                            <ul class="list-style-none">
+                                <li>
+                                    <div class="checkbox">
+                                        <input type="checkbox" />
+                                    </div>
+                                    <span>Origin Liftgate&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                                </li>
+                                <li>
+                                    <div class="checkbox">
+                                        <input type="checkbox">
+                                    </div>
+                                    <span>Residential/Limited Access Pickup&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                                </li>
+                                <li>
+                                    <div class="checkbox">
+                                        <input type="checkbox">
+                                    </div>
+                                    <span>Inside Pickup&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="headline">
+                <h2><i class="fa fa-map-marker text-danger" aria-hidden="true"></i>&nbsp;Destination</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="form">
+                        <div class="form-group">
+                            <label class="text-header">City or Zip</label>
+                            <input class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label class="text-header">Location Type</label>
+                            <select class="form-control">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <label class="text-header">Services</label>
+                    <ul class="list-style-none">
+                        <li>
+                            <div class="checkbox">
+                                <input type="checkbox">
+                            </div>
+                            <span>Destination Liftgate&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                        </li>
+                        <li>
+                            <div class="checkbox">
+                                <input type="checkbox" />
+                            </div>
+                            <span>Residential/Limited Access Delivery&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                        </li>
+                        <li>
+                            <div class="checkbox">
+                                <input type="checkbox" />
+                            </div>
+                            <span>Inside Delivery&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                        </li>
+                        <li>
+                            <div class="checkbox">
+                                <input type="checkbox" />
+                            </div>
+                            <span>Delivery Notification&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                        </li>
+                        <li>
+                            <div class="checkbox">
+                                <input type="checkbox" />
+                            </div>
+                            <span>Sort and Segregate&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="headline">
+                <h2><i class="fa fa-archive" aria-hidden="true"></i>&nbsp;What items are you shipping?</h2>
+            </div>
+            <div class="row">
+                <div class="form-horizontal">
+                    <div class="col-md-2">
+                        <label class="text-header">Package</label>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <select class="form-control">
+                                    <option value="1">Pallets</option>
+                                    <option value="3">Boxes</option>
+                                    <option value="14">Cartons</option>
+                                    <option value="4">Crates</option>
+                                    <option value="5">Drums</option>
+                                    <option value="15">Bags</option>
+                                    <option value="16">Bales</option>
+                                    <option value="17">Bundles</option>
+                                    <option value="18">Cans</option>
+                                    <option value="19">Carboys</option>
+                                    <option value="20">Carpets</option>
+                                    <option value="21">Cases</option>
+                                    <option value="22">Coils</option>
+                                    <option value="23">Cylinders</option>
+                                    <option value="24">Loose</option>
+                                    <option value="25">Pails</option>
+                                    <option value="26">Reels</option>
+                                    <option value="27">Rolls</option>
+                                    <option value="28">Tubes/Pipes</option>
+                                    <option value="6">Other</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <label class="text-header">Quantity</label>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <input class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="text-header">Dimensions</label>
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <input class="form-control" placeholder="Length" />
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+
+                                        <input class="form-control" placeholder="Width" />
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+
+                                        <input class="form-control" placeholder="Height" />
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <select class="form-control">
+                                            <option value="1">LBS</option>
+                                            <option value="3">KG</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <label class="text-header">Freight Class</label>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <select class="form-control">
+                                    <option value="1">55.0</option>
+                                    <option value="3">60.0</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <label class="text-header">&nbsp;</label>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <button class="btn btn-secondary">
+                                    <i class="fa fa-trash" aria-hidden="true"></i>&nbsp;REMOVE ITEM
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <hr />
+            <div class="row">
+                <ul class="list-style-none">
+                    <li>
+                        <div class="checkbox">
+                            <input type="checkbox">
+                        </div>
+                        <span>Hazardous&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                    </li>
+                    <li>
+                        <div class="checkbox">
+                            <input type="checkbox">
+                        </div>
+                        <span>Stackable&nbsp;<i class="fa fa-question-circle" aria-hidden="true"></i></span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 text-left">
+            <hr />
+            <button class="btn btn-success">Continue</button>
+        </div>
+    </div>
+</section>
