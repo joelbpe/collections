@@ -1,0 +1,6 @@
+E:\snippets\ActiveDirectoryUsers\bin\Debug\ActiveDirectoryUsers.exe.config
+E:\snippets\ActiveDirectoryUsers\bin\Debug\ActiveDirectoryUsers.exe
+E:\snippets\ActiveDirectoryUsers\bin\Debug\ActiveDirectoryUsers.pdb
+E:\snippets\ActiveDirectoryUsers\obj\Debug\ActiveDirectoryUsers.csprojResolveAssemblyReference.cache
+E:\snippets\ActiveDirectoryUsers\obj\Debug\ActiveDirectoryUsers.exe
+E:\snippets\ActiveDirectoryUsers\obj\Debug\ActiveDirectoryUsers.pdb
