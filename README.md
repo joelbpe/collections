@@ -4,23 +4,23 @@ Started a small project that will ask users to enter the from and to locations w
 
 <ul>
 <li>
-<a href='https://htmlstream.com/preview/unify-v1.9.8/index.html'>Unify</a> is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals. It works on all major web browsers, tablets and phone.
+<a target='_blank' href='https://htmlstream.com/preview/unify-v1.9.8/index.html'>Unify</a> is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals. It works on all major web browsers, tablets and phone.
 </li>
 
 <li>
-<a href='https://developers.google.com/apis-explorer/#p/'>Google Apis</a> is a set of application programming interfaces (APIs) developed by Google which allow communication with Google Services and their integration to other services. Examples of these include Search, Gmail, Translate or Google Maps. Third-party apps can use these APIs to take advantage of or extend the functionality of the existing services.<sup><a href='https://en.wikipedia.org/wiki/Google_APIs'>Read more...</a></sup> 
+<a target='_blank' href='https://developers.google.com/apis-explorer/#p/'>Google Apis</a> is a set of application programming interfaces (APIs) developed by Google which allow communication with Google Services and their integration to other services. Examples of these include Search, Gmail, Translate or Google Maps. Third-party apps can use these APIs to take advantage of or extend the functionality of the existing services.<sup><a target='_blank' href='https://en.wikipedia.org/wiki/Google_APIs'>Read more...</a></sup> 
 </li>
 <li>
-<a href='http://knockoutjs.com/'>KnockoutJS</a> s a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model.<sup><a href='http://knockoutjs.com/documentation/introduction.html'>Read more...</a></sup>
+<a target='_blank' href='http://knockoutjs.com/'>KnockoutJS</a> s a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model.<sup><a target='_blank' href='http://knockoutjs.com/documentation/introduction.html'>Read more...</a></sup>
 </li>
 <li>
-<a href='https://jquery.com/'>jQuery</a> is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.<sup><a href='http://api.jquery.com/'>Read more...</a></sup>
+<a target='_blank' href='https://jquery.com/'>jQuery</a> is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.<sup><a target='_blank' href='http://api.jquery.com/'>Read more...</a></sup>
 </li>
 <li>
-<a href='http://requirejs.org/'>RequireJS</a> is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.<sup><a href='http://requirejs.org/docs/api.html'>Read more...</a></sup>
+<a target='_blank' href='http://requirejs.org/'>RequireJS</a> is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.<sup><a target='_blank' href='http://requirejs.org/docs/api.html'>Read more...</a></sup>
 </li>
 <li>
-<a href='https://www.typescriptlang.org'>Typescript</a> is a typed superset of Javascript that compiles to plain Javascript..<sup><a href='https://www.typescriptlang.org/docs/tutorial.html'>Read more...</a></sup>
+<a target='_blank' href='https://www.typescriptlang.org'>Typescript</a> is a typed superset of Javascript that compiles to plain Javascript..<sup><a target='_blank' href='https://www.typescriptlang.org/docs/tutorial.html'>Read more...</a></sup>
 </li>
 </ul>
 
