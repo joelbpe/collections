@@ -1,6 +1,6 @@
 
 # Shipwaze
-Started a small project that will ask users to enter the from and to locations where the item(s) is going to be move using less than truck loads apis from 3rd party logistic companies. Eg. USP, Fedex, Dominion, AAA Cooper, Pilot Freight and more... I have at the moment a website using Unify Template, MVC framework, C#. These will be my core components Google map apis, KnockoutJS, jQuery, RequireJS and Typescript to implement the product.
+Started a small project that will ask users to enter the from and to locations where the item(s) is going to be move using less than truck load apis from 3rd party logistic companies. Eg. USP, Fedex, Dominion, AAA Cooper, Pilot Freight and more... I have at the moment a website using Unify Template, MVC framework, C#. These will be my core components Google map apis, KnockoutJS, jQuery, RequireJS and Typescript to implement the product.
 
 <ul>
 <li>
