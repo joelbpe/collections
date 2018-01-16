@@ -4,10 +4,6 @@ Started a small project that will ask users to enter the from and to locations w
 
 <ul>
 <li>
-<a target='_blank' href='https://htmlstream.com/preview/unify-v1.9.8/index.html'>Unify</a> is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals. It works on all major web browsers, tablets and phone.
-</li>
-
-<li>
 <a target='_blank' href='https://developers.google.com/apis-explorer/#p/'>Google Apis</a> is a set of application programming interfaces (APIs) developed by Google which allow communication with Google Services and their integration to other services. Examples of these include Search, Gmail, Translate or Google Maps. Third-party apps can use these APIs to take advantage of or extend the functionality of the existing services.<sup><a target='_blank' href='https://en.wikipedia.org/wiki/Google_APIs'>Read more...</a></sup> 
 </li>
 <li>
