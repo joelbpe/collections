@@ -52,4 +52,4 @@ public void ConvertVideo() {
 }
 ```
 
-<a target='_blank' href='https://github.com/joelbpe/collections/tree/master/Shipwaze/'>Browse...</a>
+<a target='_blank' href='https://github.com/joelbpe/collections/tree/master/VideoConverter/'>Browse...</a>
